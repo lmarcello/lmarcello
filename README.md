@@ -1,4 +1,5 @@
 ## Hi there 👋
+
 <h2>📖 | About me</h2> 
 Hi! I'm Leonardo Marcello, a Backend Developer (Semi-Senior) passionate about building efficient, scalable, and meaningful software solutions.
 I mainly work with Java and Spring Boot, and I also have experience with Angular and SQL Server.
@@ -43,4 +44,9 @@ I’m passionate about continuous learning and always exploring new technologies
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmarcello&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div>
+
+<h2>📫 | Get in Touch</h2>
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tuusuario/)
+
 
