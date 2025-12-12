@@ -1,5 +1,5 @@
 <div align="right">
-  <a href="www.linkedin.com/in/leonardo-marcello-18bb1b393" target="_blank">
+  <a href="https://www.linkedin.com/in/leonardo-marcello-18bb1b393" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
   </a>
 </div>
